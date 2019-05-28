@@ -1,7 +1,7 @@
-n=int(input(""))
-if(n>0):
+kiru=int(input(""))
+if(kiru>0):
   print("Positive")
-elif(n<0):
+elif(kiru<0):
   print("Negative")
 else:
   print("Zero")
